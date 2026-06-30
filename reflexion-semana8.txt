@@ -1,0 +1,11 @@
+La seguridad digital es fundamental para proteger las plataformas tecnológicas 
+utilizadas por las comunidades y los procesos participativos. 
+Una buena seguridad evita el acceso no autorizado a la información y 
+protege los datos personales de los usuarios. Además, permite que las 
+personas confíen en las herramientas digitales para reportar problemas 
+o participar en proyectos comunitarios. También ayuda a prevenir ataques 
+informáticos, pérdida de información y suplantación de identidad. 
+Implementar buenas prácticas de seguridad fortalece la transparencia y 
+el correcto funcionamiento de las plataformas. De esta manera, se 
+garantiza que la información sea confiable, esté protegida y pueda 
+utilizarse para beneficiar a toda la comunidad.
